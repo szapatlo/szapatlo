@@ -1,4 +1,6 @@
-### Hi there 👋
+#Bienvenido a mi Mundo
+
+Soy sebastian Zapata  Tecnologo en mantenimiento de computadores diseño e instalacion de cableado estructurado y Tecnico en desarrolo de software  y programacion
 
 <!--
 **szapatlo/szapatlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
