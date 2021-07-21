@@ -1,8 +1,8 @@
-#Bienvenido a mi Mundo
+# Bienvenido a mi Mundo
 
 Soy sebastian Zapata  Tecnologo en mantenimiento de computadores diseño e instalacion de cableado estructurado y Tecnico en desarrollo de software .
 
-##Mi Perfil
+## Mi Perfil
 
 Me considero una persona proactiva que le gusta tener mucho conocimiento, soy responsable, honesto y muy dedicado a el trabajo.
 
